@@ -11,8 +11,8 @@
 
 ## Kaggle
 
-* Classification :
-* Mushroom Classification : [mushroom](https://www.kaggle.com/uciml/mushroom-classification)
+* Classification 
+  * Mushroom Classification : [mushroom](https://www.kaggle.com/uciml/mushroom-classification)
 * Prediction 
   * Titanic : [titanic](https://www.kaggle.com/c/titanic)
   * Bike Sharing Demand: [bike](https://www.kaggle.com/c/bike-sharing-demand)
