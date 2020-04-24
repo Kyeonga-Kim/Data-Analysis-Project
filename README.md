@@ -16,8 +16,9 @@
 * Prediction 
   * Titanic : [titanic](https://www.kaggle.com/c/titanic)
   * Bike Sharing Demand: [bike](https://www.kaggle.com/c/bike-sharing-demand)
-
-
+* etc
+  * Movie Recommend System : [The Movie Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
+  *  NlP : 
 
 ## Etc
 
