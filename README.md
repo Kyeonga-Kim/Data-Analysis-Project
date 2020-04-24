@@ -3,9 +3,9 @@
 ## Dacon 
 
 * Prediction 
-*  AI Frienz Temperature Prediction Contest : [Temperature](https://dacon.io/competitions/official/235590/overview/)
+  * AI Frienz Temperature Prediction Contest : [Temperature](https://dacon.io/competitions/official/235590/overview/)
 * Visualization
-* COVID-19 Data Visualization : [Covid-19](https://dacon.io/competitions/official/235590/overview/)
+  * COVID-19 Data Visualization : [Covid-19](https://dacon.io/competitions/official/235590/overview/)
 
 
 
