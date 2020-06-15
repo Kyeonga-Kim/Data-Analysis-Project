@@ -4,8 +4,8 @@
 
 #### [ Train ]
 
-![train](C:\Users\Kim\Downloads\train.png)
+![train](train.png)
 
 #### [ Test ]
 
-![test](C:\Users\Kim\Downloads\test.png)
+![test](test.png)
