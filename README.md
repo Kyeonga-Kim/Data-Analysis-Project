@@ -4,8 +4,9 @@
 
 * Prediction 
   * AI Frienz Temperature Prediction Contest : [Temperature](https://dacon.io/competitions/official/235590/overview/)
+  * Jeju Bus Prediction : 
 * Visualization
-  * COVID-19 Data Visualization : [Covid-19](https://dacon.io/competitions/official/235590/overview/)
+  * COVID-19 Data Visualization [★3rd Prize] : [Covid-19](https://dacon.io/competitions/official/235590/overview/)
 
 
 
@@ -25,3 +26,10 @@
 ## Etc
 
 * Prediction : Korea Apartment Management Fee Analysis
+
+
+
+## Contest 
+
+*  HyundaiSteel [★Prize] : Prediction of  Dew Condensation 
+
