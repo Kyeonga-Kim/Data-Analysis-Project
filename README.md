@@ -6,7 +6,7 @@
   * AI Frienz Temperature Prediction Contest : [Temperature](https://dacon.io/competitions/official/235590/overview/)
   * Jeju Bus Prediction : [Jeju_bus_prediction](https://dacon.io/competitions/official/229255/overview/)
 * Visualization
-  * COVID-19 Data Visualization [★3rd Prize] : [Covid-19](https://dacon.io/competitions/official/235590/overview/)
+  * COVID-19 Data Visualization : [Covid-19](https://dacon.io/competitions/official/235590/overview/)
 
 
 
@@ -19,7 +19,7 @@
   * Titanic : [titanic](https://www.kaggle.com/c/titanic)
   * Bike Sharing Demand: [bike](https://www.kaggle.com/c/bike-sharing-demand)
 * etc
-  * Cosine-Similarity ,CF Recommend System : [The Movie Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
+  * Cosine-Similarity , CF Recommend System : [The Movie Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
 * House 
   *  NlP : Included TIL Repository  
 
@@ -29,7 +29,10 @@
 
 
 
-## Contest 
+## Contest & Award
 
-*  HyundaiSteel [★Prize] : Prediction of  Dew Condensation [Weather BigContest](https://bd.kma.go.kr/contest/)
+*  COVID-19 Data Visualization [★3rd Prize] : [Covid-19](https://dacon.io/competitions/official/235590/overview/)
+*  2020 Kma & HyundaiSteel (part. Data Analysis) [★ 2nd Prize] : Prediction of  Dew Condensation [Weather Big Contest](https://bd.kma.go.kr/contest/)
+
+
 
