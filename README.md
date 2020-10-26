@@ -26,6 +26,7 @@
 ## Etc
 
 * Prediction : Korea Apartment Management Fee Analysis
+* Recommendation System : Apriori Algorithm
 
 
 
